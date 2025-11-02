@@ -30,14 +30,14 @@ This project demonstrates how filtering, contrast enhancement, thresholding, and
 
 - **Language:** Python  
 - **Libraries:** OpenCV, NumPy, Matplotlib  
-- **Environment:** Jupyter Notebook (`testing.ipynb`)
+- **Environment:** Jupyter Notebook (`main.ipynb`)
 
 ---
 
 ## 📁 Project Structure
 Handwriting-Digitizer/
 │
-├── testing.ipynb # Main source code
+├── main.ipynb # Main source code
 ├── samples/ # Folder for input/output images (optional)
 └── README.md # Project documentation
 
